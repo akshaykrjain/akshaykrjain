@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrjain" alt="akshaykrjain" /> </p>
 
