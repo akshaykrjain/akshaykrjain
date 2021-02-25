@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate DevOps and Site Reliabilty Engineer</h3>
+<h1 align="center">Hi 👋, I'm Akshay, </h1>
+<h3 align="center"><i>If it's not automated it isn't done. </i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrjain" alt="akshaykrjain" /> </p>
 
-- 🔭 I’m currently working on [CloudFront Using Terraform](https://github.com/akshaykrjain/cloudfront_terrafrom)
+- 🔭 I’m currently playing with [Go](https://golang.org) 
+- Infrastructure as Code is my bread and butter. I breath terraform and I dream CloudFormation..
+- GUI is my weakness.. CLI is my passion..
+- I hate wasting even a single penny on underutilized cloud resources. Automate, Terminate, Rotate and save money for your weekend movies
+- I sleep 9 hours a day..
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
