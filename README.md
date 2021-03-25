@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshay, </h1>
 <h3 align="center"><i>If it's not automated it isn't done. </i></h3>
 
+![Image to be replaced](https://images.unsplash.com/photo-1569428034239-f9565e32e224?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdWR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrjain" alt="akshaykrjain" /> </p>
 
 - 🔭 I’m currently playing with [Go](https://golang.org) 
