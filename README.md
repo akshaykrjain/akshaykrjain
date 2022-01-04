@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay, </h1>
 <h3 align="center"><i>If it's not automated it isn't done. </i></h3>
 
-![Image to be replaced](https://github.githubassets.com/images/modules/notifications/inbox-zero.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrjain" alt="akshaykrjain" /> </p>
 
@@ -27,3 +27,6 @@
 <a href="https://fb.com/akshaykrjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akshaykrjain" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/akshaykrjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="akshaykrjain" height="20" width="20" /></a>
 </p>
+
+
+<a href="https://app.daily.dev/akshaykrjain"><img src="https://api.daily.dev/devcards/d05a47fd17544d4f816006fae1f534ce.png?r=ek6" width="400" alt="Akshay Jain's Dev Card"/></a>
