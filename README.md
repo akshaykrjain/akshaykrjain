@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrjain" alt="akshaykrjain" /> </p>
 
-- 🔭 I’m currently playing with [Go](https://golang.org) 
-- Infrastructure as Code is my bread and butter. I breath terraform and I dream CloudFormation..
-- GUI is my weakness.. CLI is my passion..
-- I hate wasting even a single penny on underutilized cloud resources. Automate, Terminate, Rotate and save money for your weekend movies
-- I sleep 9 hours a day..
+- 🔭 I’m currently playing with [Go](https://github.com/akshaykrjain/DevOpsGO) 
+- Infrastructure as Code is my bread and butter. I breath terraform and I dream CloudFormation.(Only within 9 to 5 :) )
+  Get some samples [here](https://github.com/akshaykrjain/aws_samples)
+- GUI is my weakness.CLI is my passion. 
+- I hate wasting even a single penny on underutilized cloud resources. Automate, Optimize , Terminate, save money to spend somewhere else
+- I sleep 9 hours a day
+- I finish 1 book every month
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
